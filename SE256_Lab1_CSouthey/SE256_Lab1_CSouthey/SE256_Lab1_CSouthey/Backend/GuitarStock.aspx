@@ -3,13 +3,15 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="BreakingNewsContent" runat="server">
     <a href="ControlPanel.aspx" runat="server">Return to Control Panel</a>
+    
 </asp:Content>
 
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
     <table>
-
+        <br />
+        <br />
         <!--Guitar ID-->
         <tr>
             <td>Guitar ID</td>
@@ -34,23 +36,35 @@
             <td><asp:TextBox ID="txtColor" runat="server" MaxLength="20"/></td>
         </tr>
 
-        <!--Guitar Price-->
-        <tr>
-            <td>Guitar Price</td>
-            <td><asp:TextBox ID="txtPrice" runat="server" MaxLength="10"/></td>
-        </tr>
-
         <!--Guitar Strings-->
         <tr>
             <td># of Strings</td>
             <td><asp:TextBox ID="txtStrings" runat="server" MaxLength="30"/></td>
         </tr>
 
+        <!--Guitar Price-->
+        <tr>
+            <td>Guitar Price</td>
+            <td><asp:TextBox ID="txtPrice" runat="server" MaxLength="10"/></td>
+        </tr>
+
+        <!--New or Used-->
+        <tr>
+            <td>New or Used</td>
+            <td><asp:TextBox ID="txtNewUsed" runat="server" MaxLength="10"/></td>
+        </tr>
+
+        <!--Guitar Manu date-->
+        <tr>
+            <td>Date Manufactured</td>
+            <td><asp:Calendar ID="calManu" runat="server" /></td>
+        </tr>
+
 
     </table>
 
     <br />
-    <asp:Button ID="btnAdd" runat="server" Text="Add Guitar" OnClick="btnAdd_Click" />
+    <asp:Button ID="btnAdd" runat="server" Text="Add Guitar" OnClick="BtnAdd_Click" />
 
     <br />
     <asp:Label ID="lblFeedback" runat="server" />

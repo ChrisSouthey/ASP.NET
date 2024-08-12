@@ -12,8 +12,9 @@ namespace SE256_Lab1_CSouthey.App_Code
         private string brand;
         private string model;
         private string color;
-        private double price;
         private int strings;
+        private double price;
+       
 
         protected string feedback;
 
@@ -26,7 +27,7 @@ namespace SE256_Lab1_CSouthey.App_Code
             }
             set
             {
-                value = brand;
+                brand = value;
             }
 
         }
@@ -39,7 +40,7 @@ namespace SE256_Lab1_CSouthey.App_Code
             }
             set
             {
-                value = model;
+                model = value;
             }
 
         }
@@ -52,23 +53,11 @@ namespace SE256_Lab1_CSouthey.App_Code
             }
             set
             {
-                value = color;
+                color = value;
             }
 
         }
 
-        public double Price
-        {
-            get
-            {
-                return price;
-            }
-            set
-            {
-                value = price;
-            }
-
-        }
 
         public int Strings
         {
@@ -78,19 +67,30 @@ namespace SE256_Lab1_CSouthey.App_Code
             }
             set
             {
-               if(ValidationLibrary.CorrectNumStrings(value) == false)
-               {
-                    strings = value;
-               }
-                else
+                if(ValidationLibrary.CorrectNumStrings(value) == false)
                 {
                     feedback += "ERROR: Incorrect number of strings entered";
+                }
+                else
+                {
+                    strings = value;
                 }
             }
 
         }
 
+        public double Price
+                {
+                    get
+                    {
+                        return price;
+                    }
+                    set
+                    {
+                        price = value;
+                    }
 
+                }
 
         public string Feedback
         {

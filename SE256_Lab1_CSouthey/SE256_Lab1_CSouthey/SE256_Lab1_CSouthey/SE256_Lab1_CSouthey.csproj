@@ -372,6 +372,7 @@
       <DependentUpon>VerifyPhoneNumber.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Code\Guitar.cs" />
+    <Compile Include="App_Code\GuitarV2.cs" />
     <Compile Include="App_Code\ValidationLibrary.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="About.aspx.cs">

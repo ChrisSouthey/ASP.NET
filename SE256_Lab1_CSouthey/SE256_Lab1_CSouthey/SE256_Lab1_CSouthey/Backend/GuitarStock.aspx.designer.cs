@@ -51,6 +51,15 @@ namespace SE256_Lab1_CSouthey.Backend
         protected global::System.Web.UI.WebControls.TextBox txtColor;
 
         /// <summary>
+        /// txtStrings control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtStrings;
+
+        /// <summary>
         /// txtPrice control.
         /// </summary>
         /// <remarks>
@@ -60,13 +69,22 @@ namespace SE256_Lab1_CSouthey.Backend
         protected global::System.Web.UI.WebControls.TextBox txtPrice;
 
         /// <summary>
-        /// txtStrings control.
+        /// txtNewUsed control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtStrings;
+        protected global::System.Web.UI.WebControls.TextBox txtNewUsed;
+
+        /// <summary>
+        /// calManu control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Calendar calManu;
 
         /// <summary>
         /// btnAdd control.

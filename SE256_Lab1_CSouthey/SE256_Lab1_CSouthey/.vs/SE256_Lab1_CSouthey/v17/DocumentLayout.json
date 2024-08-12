@@ -1,12 +1,120 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chris\\OneDrive\\Desktop\\Schoolwork\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF2BEDD-CB52-4F04-954C-12AD41F4095A}|SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey.csproj|c:\\users\\008022228\\desktop\\asp.net\\se256_lab1_csouthey\\se256_lab1_csouthey\\se256_lab1_csouthey\\app_code\\guitarv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF2BEDD-CB52-4F04-954C-12AD41F4095A}|SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey.csproj|solutionrelative:se256_lab1_csouthey\\app_code\\guitarv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF2BEDD-CB52-4F04-954C-12AD41F4095A}|SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey.csproj|C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\se256_lab1_csouthey\\backend\\guitarstock.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF2BEDD-CB52-4F04-954C-12AD41F4095A}|SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey.csproj|solutionrelative:se256_lab1_csouthey\\backend\\guitarstock.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF2BEDD-CB52-4F04-954C-12AD41F4095A}|SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey.csproj|C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\se256_lab1_csouthey\\backend\\guitarstock.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEF2BEDD-CB52-4F04-954C-12AD41F4095A}|SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey.csproj|solutionrelative:se256_lab1_csouthey\\backend\\guitarstock.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF2BEDD-CB52-4F04-954C-12AD41F4095A}|SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey.csproj|C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\se256_lab1_csouthey\\app_code\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF2BEDD-CB52-4F04-954C-12AD41F4095A}|SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey.csproj|solutionrelative:se256_lab1_csouthey\\app_code\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF2BEDD-CB52-4F04-954C-12AD41F4095A}|SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey.csproj|C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\se256_lab1_csouthey\\backend\\controlpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FEF2BEDD-CB52-4F04-954C-12AD41F4095A}|SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey.csproj|solutionrelative:se256_lab1_csouthey\\backend\\controlpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF2BEDD-CB52-4F04-954C-12AD41F4095A}|SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey.csproj|C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\se256_lab1_csouthey\\app_code\\validationlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF2BEDD-CB52-4F04-954C-12AD41F4095A}|SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey.csproj|solutionrelative:se256_lab1_csouthey\\app_code\\validationlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guitar.cs",
+              "DocumentMoniker": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\App_Code\\Guitar.cs",
+              "RelativeDocumentMoniker": "SE256_Lab1_CSouthey\\App_Code\\Guitar.cs",
+              "ToolTip": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\App_Code\\Guitar.cs",
+              "RelativeToolTip": "SE256_Lab1_CSouthey\\App_Code\\Guitar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:17:42.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuitarStock.aspx",
+              "DocumentMoniker": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\Backend\\GuitarStock.aspx",
+              "RelativeDocumentMoniker": "SE256_Lab1_CSouthey\\Backend\\GuitarStock.aspx",
+              "ToolTip": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\Backend\\GuitarStock.aspx",
+              "RelativeToolTip": "SE256_Lab1_CSouthey\\Backend\\GuitarStock.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T11:52:24.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuitarStock.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\Backend\\GuitarStock.aspx.cs",
+              "RelativeDocumentMoniker": "SE256_Lab1_CSouthey\\Backend\\GuitarStock.aspx.cs",
+              "ToolTip": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\Backend\\GuitarStock.aspx.cs",
+              "RelativeToolTip": "SE256_Lab1_CSouthey\\Backend\\GuitarStock.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:52:58.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuitarV2.cs",
+              "DocumentMoniker": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\App_Code\\GuitarV2.cs",
+              "RelativeDocumentMoniker": "SE256_Lab1_CSouthey\\App_Code\\GuitarV2.cs",
+              "ToolTip": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\App_Code\\GuitarV2.cs",
+              "RelativeToolTip": "SE256_Lab1_CSouthey\\App_Code\\GuitarV2.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwGAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:28:40.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlPanel.aspx",
+              "DocumentMoniker": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\Backend\\ControlPanel.aspx",
+              "RelativeDocumentMoniker": "SE256_Lab1_CSouthey\\Backend\\ControlPanel.aspx",
+              "ToolTip": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\Backend\\ControlPanel.aspx",
+              "RelativeToolTip": "SE256_Lab1_CSouthey\\Backend\\ControlPanel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-12T12:15:53.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidationLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\App_Code\\ValidationLibrary.cs",
+              "RelativeDocumentMoniker": "SE256_Lab1_CSouthey\\App_Code\\ValidationLibrary.cs",
+              "ToolTip": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\SE256_Lab1_CSouthey\\App_Code\\ValidationLibrary.cs",
+              "RelativeToolTip": "SE256_Lab1_CSouthey\\App_Code\\ValidationLibrary.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:22:14.072Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

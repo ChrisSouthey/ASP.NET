@@ -8,6 +8,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using SE256_Lab1_CSouthey.App_Code;
 
+
 namespace SE256_Lab1_CSouthey.Backend
 {
     public partial class GuitarStock : System.Web.UI.Page
@@ -28,13 +29,15 @@ namespace SE256_Lab1_CSouthey.Backend
 
         }
 
-        protected void btnAdd_Click(object sender, EventArgs e)
+        protected void BtnAdd_Click(object sender, EventArgs e)
         {
-            Guitar temp = new Guitar();
+            GuitarV2 temp = new GuitarV2();
 
             temp.Brand = txtBrand.Text;
             temp.Model = txtModel.Text;
             temp.Color = txtColor.Text;
+            temp.NewUsed = txtNewUsed.Text;
+            temp.Manu = calManu.SelectedDate;
 
             Double dblPrice = 0;
             if (Double.TryParse(txtPrice.Text, out dblPrice))
@@ -45,7 +48,7 @@ namespace SE256_Lab1_CSouthey.Backend
             Int32 intStrings = 0;
             if (Int32.TryParse(txtStrings.Text, out intStrings))
             {
-                temp.Price = dblPrice;
+                temp.Strings = intStrings;
             }
 
             if (temp.Feedback.Contains("ERROR:"))
@@ -54,7 +57,7 @@ namespace SE256_Lab1_CSouthey.Backend
             }
             else
             {
-                lblFeedback.Text = temp.Color + " " + temp.Brand + " " + temp.Model + " " + temp.Strings + " " + temp.Price;
+                lblFeedback.Text = temp.AddAGuitar();
             }
         }
     }
