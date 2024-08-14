@@ -78,7 +78,7 @@ namespace SE256_Activity1_CSouthey.App_Code
             SqlConnection Conn = new SqlConnection();
             Conn.ConnectionString = GetConnected();
 
-            string strSQL = "INSERT INTO EBook (Title, AuthorFirst, AuthorLast, Email, , Pages, Price, DatePublished, DateRentalExpires, BookmarkPage) VALUES (@Title, @AuthorFirst, @AuthorLast, @Email, , @Pages, @Price, @DatePublished, @DateRentalExpires, @BookmarkPage)";
+            string strSQL = "INSERT INTO EBooks (Title, AuthorFirst, AuthorLast, Email, Pages, DatePublished, DateRentalExpires, Price, BookmarkPage) VALUES (@Title, @AuthorFirst, @AuthorLast, @Email, @Pages, @DatePublished, @DateRentalExpires, @Price, @BookmarkPage)";
 
             SqlCommand comm = new SqlCommand();
             comm.CommandText = strSQL;
@@ -89,9 +89,9 @@ namespace SE256_Activity1_CSouthey.App_Code
             comm.Parameters.AddWithValue("@AuthorLast", AuthorLast);
             comm.Parameters.AddWithValue("@Email", Email);
             comm.Parameters.AddWithValue("@Pages", Pages);
-            comm.Parameters.AddWithValue("@Price", Price);
             comm.Parameters.AddWithValue("@DatePublished", DatePublished);
             comm.Parameters.AddWithValue("@DateRentalExpires", DateRentalExpires);
+            comm.Parameters.AddWithValue("@Price", Price);
             comm.Parameters.AddWithValue("@BookmarkPage", BookmarkPage);
 
 

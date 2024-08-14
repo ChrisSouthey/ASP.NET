@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Activity1_CSouthey\\",
+  "WorkspaceRootPath": "C:\\Users\\chris\\OneDrive\\Desktop\\Schoolwork\\ASP.NET\\SE256_Activity1_CSouthey\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67C09AA0-8C3A-43A6-B406-9FB8120D9EA9}|SE256_Activity1_CSouthey\\SE256_Activity1_CSouthey.csproj|c:\\users\\008022228\\desktop\\asp.net\\se256_activity1_csouthey\\se256_activity1_csouthey\\app_code\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67C09AA0-8C3A-43A6-B406-9FB8120D9EA9}|SE256_Activity1_CSouthey\\SE256_Activity1_CSouthey.csproj|c:\\users\\chris\\onedrive\\desktop\\schoolwork\\asp.net\\se256_activity1_csouthey\\se256_activity1_csouthey\\app_code\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67C09AA0-8C3A-43A6-B406-9FB8120D9EA9}|SE256_Activity1_CSouthey\\SE256_Activity1_CSouthey.csproj|solutionrelative:se256_activity1_csouthey\\app_code\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C09AA0-8C3A-43A6-B406-9FB8120D9EA9}|SE256_Activity1_CSouthey\\SE256_Activity1_CSouthey.csproj|c:\\users\\chris\\onedrive\\desktop\\schoolwork\\asp.net\\se256_activity1_csouthey\\se256_activity1_csouthey\\app_code\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C09AA0-8C3A-43A6-B406-9FB8120D9EA9}|SE256_Activity1_CSouthey\\SE256_Activity1_CSouthey.csproj|solutionrelative:se256_activity1_csouthey\\app_code\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\Schoolwork\\ASP.NET\\SE256_Activity1_CSouthey\\SE256_Activity1_CSouthey\\App_Code\\Book.cs",
+              "RelativeDocumentMoniker": "SE256_Activity1_CSouthey\\App_Code\\Book.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\Schoolwork\\ASP.NET\\SE256_Activity1_CSouthey\\SE256_Activity1_CSouthey\\App_Code\\Book.cs",
+              "RelativeToolTip": "SE256_Activity1_CSouthey\\App_Code\\Book.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAuwKsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:05:42.418Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Ebook.cs",
-              "DocumentMoniker": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Activity1_CSouthey\\SE256_Activity1_CSouthey\\App_Code\\Ebook.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\OneDrive\\Desktop\\Schoolwork\\ASP.NET\\SE256_Activity1_CSouthey\\SE256_Activity1_CSouthey\\App_Code\\Ebook.cs",
               "RelativeDocumentMoniker": "SE256_Activity1_CSouthey\\App_Code\\Ebook.cs",
-              "ToolTip": "C:\\Users\\008022228\\Desktop\\ASP.NET\\SE256_Activity1_CSouthey\\SE256_Activity1_CSouthey\\App_Code\\Ebook.cs",
+              "ToolTip": "C:\\Users\\chris\\OneDrive\\Desktop\\Schoolwork\\ASP.NET\\SE256_Activity1_CSouthey\\SE256_Activity1_CSouthey\\App_Code\\Ebook.cs",
               "RelativeToolTip": "SE256_Activity1_CSouthey\\App_Code\\Ebook.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAcwG8AAAAdAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAIwFoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T12:41:10.026Z",
               "EditorCaption": ""

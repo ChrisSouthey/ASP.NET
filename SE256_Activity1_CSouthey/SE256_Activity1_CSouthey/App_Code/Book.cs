@@ -169,7 +169,7 @@ namespace SE256_Activity1_CSouthey.App_Code
             pages = 0;
             price = 0.0;
 
-            feedback = ""
+            feedback = "";
 
         }
     }
